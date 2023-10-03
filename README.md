@@ -3,6 +3,8 @@
 Pertanyaan dan Tugas
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
+saya membuat file HTML dan CSS baru dengan nama "test.html" dan "test-style.css". dan saya mencoba untuk menambahkan gambar di backround pagenya
+
 ![ss19](https://github.com/fergiawann/Lab2Web/assets/115530180/062a514a-ab8b-43eb-958a-31b3bc19ac1d)
 
 ![ss20](https://github.com/fergiawann/Lab2Web/assets/115530180/209c0f8f-5a50-40ea-b990-e0f36a9f83a1)
@@ -24,7 +26,7 @@ dan hasilnya yang ditampilkan di browser adalah CSS INLINE dengan warna putih
 
 ![ss15](https://github.com/fergiawann/Lab2Web/assets/115530180/e84bcb8a-33db-4b74-8a75-0f8c6b177a19)
 
-### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( "<p id="paragraf-1" class="text-paragraf">" )
 
 disini saya akan mencobanya dalam elemen "p" bisa dilihat dibawah ini
 
