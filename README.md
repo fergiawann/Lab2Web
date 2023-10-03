@@ -1,6 +1,6 @@
 # Lab2Web
 
-Pertanyaan dan Tugas
+## Pertanyaan dan Tugas
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
 saya membuat file HTML dan CSS baru dengan nama "test.html" dan "test-style.css". dan saya mencoba untuk menambahkan gambar di backround pagenya
