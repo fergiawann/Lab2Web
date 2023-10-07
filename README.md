@@ -1,5 +1,57 @@
 # Lab2Web
 
+## 1. Membuat dokumen HTML
+![ss1](https://github.com/fergiawann/Lab2Web/assets/115530180/d59dabe0-b053-444d-93ca-dda72d4e7c1b)
+
+![ss2](https://github.com/fergiawann/Lab2Web/assets/115530180/4198d013-51ce-423e-ae12-5f3015f0afa8)
+
+dan hasil dibrowsernya seperti ini
+
+![ss3](https://github.com/fergiawann/Lab2Web/assets/115530180/479877df-145d-421d-a267-4221bc7a168b)
+
+## 2. Mendeklarasikan CSS Internal
+disini kita akan menambahkan CSS internal yang terletak di bagian tag header
+
+![ss4](https://github.com/fergiawann/Lab2Web/assets/115530180/73642798-607a-49d4-b824-d8a50c378875)
+
+dan hasil di browsernya setelah di tambahkan CSS
+
+![ss5](https://github.com/fergiawann/Lab2Web/assets/115530180/65401135-c32e-46d8-8fdb-059502f81c9c)
+
+## 3. Menambahkan Inline CSS
+Lalu kita akan menambahkan CSS Inline yang terletak di bagian dalam tag nya
+
+![ss6](https://github.com/fergiawann/Lab2Web/assets/115530180/788f7253-e7d4-4f90-bcb0-2a12cd453caf)
+
+dan hasilnya Seperti dibawah
+
+![ss7](https://github.com/fergiawann/Lab2Web/assets/115530180/6cd735c2-114b-4fae-9f76-0699af94d445)
+
+## 4. Membuat CSS Eksternal
+Dan CSS Eksternal terletak di luar file HTML dan harus membuat file baru untuk CSSnya
+
+![ss8](https://github.com/fergiawann/Lab2Web/assets/115530180/a7ab8bf0-7eac-4e0f-b3eb-35d636b44db3)
+
+lalu setelah membuat file CSS nya kita harus menghubungkan File CSS nya dengan File HTML dengan menggunakan "LINK"
+
+![ss9](https://github.com/fergiawann/Lab2Web/assets/115530180/d572d8ec-87e9-4995-b127-c55d6e4fdd42)
+
+dan hasilnya setelah ditambahkan CSS ekternal seperti ini
+
+![ss10](https://github.com/fergiawann/Lab2Web/assets/115530180/2c2dfad8-a1f1-42e5-ad29-abbca5676f22)
+
+## 5. Menambahkan CSS Selector
+Dan terakhir kita akan menambahkan CSS untuk bagian selectornya
+
+![ss11](https://github.com/fergiawann/Lab2Web/assets/115530180/c778454f-de1e-4fc9-97d0-14b526fb6aae)
+
+Dan hasil tampilan final dibrowsernya seperti dibawah
+
+![ss12](https://github.com/fergiawann/Lab2Web/assets/115530180/897ebb47-0162-4b34-b853-6298a4b7cbc0)
+
+
+
+
 ## Pertanyaan dan Tugas
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
