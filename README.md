@@ -1,53 +1,53 @@
 # Lab2Web
 
 ## 1. Membuat dokumen HTML
-![ss1](https://github.com/fergiawann/Lab2Web/assets/115530180/d59dabe0-b053-444d-93ca-dda72d4e7c1b)
+![ss1](https://github.com/fergiawann/Lab2Web/assets/115530180/a6cf844f-ee78-4189-abdc-6ca275314417)
 
-![ss2](https://github.com/fergiawann/Lab2Web/assets/115530180/4198d013-51ce-423e-ae12-5f3015f0afa8)
+![ss2](https://github.com/fergiawann/Lab2Web/assets/115530180/67ac374c-c0a2-4977-86c5-de9e96ed6b09)
 
 dan hasil dibrowsernya seperti ini
 
-![ss3](https://github.com/fergiawann/Lab2Web/assets/115530180/479877df-145d-421d-a267-4221bc7a168b)
+![ss3](https://github.com/fergiawann/Lab2Web/assets/115530180/39d6f5f2-fa24-4442-9759-5ba378b5844f)
 
 ## 2. Mendeklarasikan CSS Internal
 disini kita akan menambahkan CSS internal yang terletak di bagian tag header
 
-![ss4](https://github.com/fergiawann/Lab2Web/assets/115530180/73642798-607a-49d4-b824-d8a50c378875)
+![ss4](https://github.com/fergiawann/Lab2Web/assets/115530180/1eefe3cc-0cfd-41c5-a00a-74d08531ecf4)
 
 dan hasil di browsernya setelah di tambahkan CSS
 
-![ss5](https://github.com/fergiawann/Lab2Web/assets/115530180/65401135-c32e-46d8-8fdb-059502f81c9c)
+![ss5](https://github.com/fergiawann/Lab2Web/assets/115530180/3dbc8208-809c-4172-9661-e3167dab272c)
 
 ## 3. Menambahkan Inline CSS
 Lalu kita akan menambahkan CSS Inline yang terletak di bagian dalam tag nya
 
-![ss6](https://github.com/fergiawann/Lab2Web/assets/115530180/788f7253-e7d4-4f90-bcb0-2a12cd453caf)
+![ss6](https://github.com/fergiawann/Lab2Web/assets/115530180/971d9172-4181-4d26-9915-ba2d57c62802)
 
 dan hasilnya Seperti dibawah
 
-![ss7](https://github.com/fergiawann/Lab2Web/assets/115530180/6cd735c2-114b-4fae-9f76-0699af94d445)
+![ss7](https://github.com/fergiawann/Lab2Web/assets/115530180/ef5bee78-95be-47e4-9b25-22d025d3fa0a)
 
 ## 4. Membuat CSS Eksternal
 Dan CSS Eksternal terletak di luar file HTML dan harus membuat file baru untuk CSSnya
 
-![ss8](https://github.com/fergiawann/Lab2Web/assets/115530180/a7ab8bf0-7eac-4e0f-b3eb-35d636b44db3)
+![ss8](https://github.com/fergiawann/Lab2Web/assets/115530180/94540e3c-ab7c-4d52-bd7b-54a54ac9cade)
 
 lalu setelah membuat file CSS nya kita harus menghubungkan File CSS nya dengan File HTML dengan menggunakan "LINK"
 
-![ss9](https://github.com/fergiawann/Lab2Web/assets/115530180/d572d8ec-87e9-4995-b127-c55d6e4fdd42)
+![ss9](https://github.com/fergiawann/Lab2Web/assets/115530180/adff144f-0624-4890-9c49-bafeee29305e)
 
 dan hasilnya setelah ditambahkan CSS ekternal seperti ini
 
-![ss10](https://github.com/fergiawann/Lab2Web/assets/115530180/2c2dfad8-a1f1-42e5-ad29-abbca5676f22)
+![ss10](https://github.com/fergiawann/Lab2Web/assets/115530180/32a4d4cf-1c66-41e6-bcd0-26cf00f36a93)
 
 ## 5. Menambahkan CSS Selector
 Dan terakhir kita akan menambahkan CSS untuk bagian selectornya
 
-![ss11](https://github.com/fergiawann/Lab2Web/assets/115530180/c778454f-de1e-4fc9-97d0-14b526fb6aae)
+![ss11](https://github.com/fergiawann/Lab2Web/assets/115530180/57f4ce2b-fcc1-4218-8a0e-2a8c8f494b03)
 
 Dan hasil tampilan final dibrowsernya seperti dibawah
 
-![ss12](https://github.com/fergiawann/Lab2Web/assets/115530180/897ebb47-0162-4b34-b853-6298a4b7cbc0)
+![ss12](https://github.com/fergiawann/Lab2Web/assets/115530180/4c4758e6-74c5-44b7-a082-318556049349)
 
 
 
@@ -55,11 +55,13 @@ Dan hasil tampilan final dibrowsernya seperti dibawah
 ## Pertanyaan dan Tugas
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-saya membuat file HTML dan CSS baru dengan nama "test.html" dan "test-style.css". dan saya mencoba untuk menambahkan gambar di backround pagenya
+Disini saya akan mencoba untuk menambahkan gambar pada backround pagenya dengan element "background-image", lalu saya tambahkan lagi "background-size" untuk mengatur ukurannya seperti dibawah ini
 
-![ss19](https://github.com/fergiawann/Lab2Web/assets/115530180/062a514a-ab8b-43eb-958a-31b3bc19ac1d)
+![ss19](https://github.com/fergiawann/Lab2Web/assets/115530180/fe9fb41c-fd82-4528-9bd3-7864d94ca021)
 
-![ss20](https://github.com/fergiawann/Lab2Web/assets/115530180/209c0f8f-5a50-40ea-b990-e0f36a9f83a1)
+Maka hasil dibrowsernya akan seperti ini
+
+![ss20](https://github.com/fergiawann/Lab2Web/assets/115530180/c6bd9fe5-eda6-4a2a-984d-c1d746165754)
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
@@ -68,29 +70,30 @@ jika hanya mendeklarasikan hanya elemen h1 di CSS maka semua elemen h1 di HTML a
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
 disini saya mencoba dengan elemen "p" dengan merubah warnanya, dan ini adalah deklarasi CSS INTERNAL dengan warna biru muda dan CSS INLINE dengan warna putih
-![ss13](https://github.com/fergiawann/Lab2Web/assets/115530180/028e348a-bf93-40a1-a4ff-85d8cf45be9e)
+
+![ss13](https://github.com/fergiawann/Lab2Web/assets/115530180/0dbf02ad-acb3-4e07-b4fb-67fc87eeefaf)
 
 Dan ini adalah deklarasi CSS EKSTERNAL dengan warna hitam
 
-![ss14](https://github.com/fergiawann/Lab2Web/assets/115530180/ff5347d8-6f8a-4315-aa89-857ad6dbc959)
+![ss14](https://github.com/fergiawann/Lab2Web/assets/115530180/fe9eff97-6961-4a67-9e9e-016819cc6337)
 
 dan hasilnya yang ditampilkan di browser adalah CSS INLINE dengan warna putih
 
-![ss15](https://github.com/fergiawann/Lab2Web/assets/115530180/e84bcb8a-33db-4b74-8a75-0f8c6b177a19)
+![ss15](https://github.com/fergiawann/Lab2Web/assets/115530180/22c2360c-c2e5-418f-9f18-22926b53073c)
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( "<p id="paragraf-1" class="text-paragraf">" )
 
 disini saya akan mencobanya dalam elemen "p" bisa dilihat dibawah ini
 
-![ss16](https://github.com/fergiawann/Lab2Web/assets/115530180/44ff0768-bf07-4401-83f1-aebac19da457)
+![ss16](https://github.com/fergiawann/Lab2Web/assets/115530180/7235f9f1-a48a-4fd8-8120-2f9e5b33827b)
 
-disini saya akan mencoba merubah warna dari atribut "p" di CSS
+disini saya akan mencoba merubah warna dari atribut "p" di CSS, Class saya beri warna hijau dan ID saya beri warna merah
 
-![ss17](https://github.com/fergiawann/Lab2Web/assets/115530180/8d5e587a-bc38-459a-8dcb-3ab183190b35)
+![ss17](https://github.com/fergiawann/Lab2Web/assets/115530180/8f8aa542-b839-43cc-b249-697d1abcd0d0)
 
 dan hasilnya yang ditampilkan pada browser adalah ID paragraf-1 dengan warna merah.
 
-![ss18](https://github.com/fergiawann/Lab2Web/assets/115530180/f1a6fa01-d685-4503-9a47-c0064d771d4f)
+![ss18](https://github.com/fergiawann/Lab2Web/assets/115530180/ed769f46-e7f7-4e79-a054-b1c012beb3e9)
 
 
 
